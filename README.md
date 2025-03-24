@@ -18,7 +18,7 @@ This Python project demonstrates the difference between quantum and classical co
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/quantum-coin-flip.git
+git clone https://github.com/aditya19200/quantum-coin-flip.git
 ```
 
 2. Install required dependencies:
@@ -48,7 +48,7 @@ The script generates two types of plots:
 - Comparative bar graph of both methods
 
 ## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/YOUR-USERNAME/quantum-coin-flip/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/aditya19200/quantum-coin-flip/issues).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
