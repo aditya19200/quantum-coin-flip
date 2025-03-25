@@ -55,4 +55,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## Contact
 - Your Name - aditya19200
-- Project Link: https://github.com/YOUR-USERNAME/quantum-coin-flip
+- Project Link: https://github.com/aditya19200/quantum-coin-flip
+  #screenshots
+  <img width="460" alt="image" src="https://github.com/user-attachments/assets/c242a9cf-1ba7-47f5-98b0-a4f8559b9280" />
+
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/85610834-0999-4ec5-9dc9-786ada2cb130" />
+
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/a325cb9f-8ee8-412b-aa0c-78e133d83d28" />
+
+
+
